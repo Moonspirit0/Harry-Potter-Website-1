@@ -1,0 +1,151 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/a5/be/1e/a5be1eab17eced32f3cf4493aa2a88b1.jpg);
+}
+
+h1 {
+    font-family: 'Special Elite', cursive;
+    color: #ffab87;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px white;
+}
+
+i {
+    color: #edffcc;
+    margin: 15px;
+}
+
+h3 {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    color: bisque;
+}
+
+hr {
+    background-color: yellow;
+    height: 5px;
+}
+
+#main {
+    height: 290px;
+    border: 2px solid #edffcc;
+}
+
+#p1 {
+    text-align: center;
+    color: burlywood;
+    max-width: 600px;
+    margin: auto;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#p2 {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+
+}
+
+#sub {
+    color: chocolate;
+}
+
+#h21 {
+    color: #ffb17e;
+    text-shadow: 1px 1px lightyellow;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+#h22 {
+    color: #ffb17e;
+    text-shadow: 1px 1px lightyellow;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+ul {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    list-style: none
+}
+
+#h23 {
+    color: #ffb17e;
+    text-shadow: 1px 1px lightyellow;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+#p3 {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#h24 {
+    color: #ffb17e;
+    text-shadow: 1px 1px lightyellow;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+h4 {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#img1 {
+    height: 300px;
+    border: 2px solid #edffcc;
+}
+
+#p5 {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#p6 {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#img2 {
+    height: 220px;
+    border: 2px solid #edffcc;
+}
+
+#img3 {
+    height: 220px;
+    border: 2px solid #edffcc;
+}
+
+#p7 {
+    color: burlywood;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#h3last{
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    color: bisque; 
+}
